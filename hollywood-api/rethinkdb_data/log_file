@@ -1,0 +1,46 @@
+2017-11-01T11:04:48.911661000 0.062966s notice: Recursively removing directory /Users/digitalimm0rtal/Documents/devtree/week8/3wed/hollywood-app/hollywood-api/rethinkdb_data/tmp
+2017-11-01T11:04:48.913413000 0.064722s notice: Initializing directory /Users/digitalimm0rtal/Documents/devtree/week8/3wed/hollywood-app/hollywood-api/rethinkdb_data
+2017-11-01T11:04:48.913499000 0.064803s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/digitalimm0rtal/Documents/devtree/week8/3wed/hollywood-app/hollywood-api/rethinkdb_data' did not already exist or is empty.)
+2017-11-01T11:04:48.913526000 0.064830s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-11-01T11:04:48.921554000 0.072859s notice: Running on Darwin 16.7.0 x86_64
+2017-11-01T11:04:48.921601000 0.072905s notice: Loading data from directory /Users/digitalimm0rtal/Documents/devtree/week8/3wed/hollywood-app/hollywood-api/rethinkdb_data
+2017-11-01T11:04:49.038969000 0.190274s info: Automatically using cache size of 859 MB
+2017-11-01T11:04:49.039388000 0.190692s notice: Listening for intracluster connections on port 29015
+2017-11-01T11:04:49.041551000 0.192855s notice: Listening for client driver connections on port 28015
+2017-11-01T11:04:49.041719000 0.193024s notice: Listening for administrative HTTP connections on port 8080
+2017-11-01T11:04:49.041723000 0.193027s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-11-01T11:04:49.041726000 0.193030s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-11-01T11:04:49.041729000 0.193033s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-11-01T11:04:49.041734000 0.193038s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-11-01T11:04:49.041739000 0.193043s notice: Server ready, "gabriels_mbp_lan_dod" 715bd53d-34e0-4ea6-842a-be861aebe4c9
+2017-11-01T11:05:32.723658000 43.876119s info: Table b17df055-10b5-402c-802d-fdfd75bd9290: Starting a new Raft election for term 1.
+2017-11-01T11:05:32.728346000 43.880808s info: Table b17df055-10b5-402c-802d-fdfd75bd9290: Added replica on this server.
+2017-11-01T11:05:32.728359000 43.880820s info: Table b0aad396-0d6b-4fb0-81d7-602050b6c8ba: Starting a new Raft election for term 1.
+2017-11-01T11:05:32.728540000 43.881002s info: Table b0aad396-0d6b-4fb0-81d7-602050b6c8ba: Added replica on this server.
+2017-11-01T11:05:32.728580000 43.881041s info: Table b9a416a2-7991-4e89-ba5e-a9788d6cbff7: Starting a new Raft election for term 1.
+2017-11-01T11:05:32.728680000 43.881141s info: Table b9a416a2-7991-4e89-ba5e-a9788d6cbff7: Added replica on this server.
+2017-11-01T11:05:32.755276000 43.907738s info: Table 7ddca58a-e075-44e9-9160-f4c7be3b0e73: Starting a new Raft election for term 1.
+2017-11-01T11:05:32.755546000 43.908007s info: Table 7ddca58a-e075-44e9-9160-f4c7be3b0e73: Added replica on this server.
+2017-11-01T11:05:32.770122000 43.922584s info: Table b17df055-10b5-402c-802d-fdfd75bd9290: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T11:05:32.770275000 43.922736s info: Table b0aad396-0d6b-4fb0-81d7-602050b6c8ba: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T11:05:32.789283000 43.941745s info: Table b9a416a2-7991-4e89-ba5e-a9788d6cbff7: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T11:05:32.789362000 43.941823s info: Table 7ddca58a-e075-44e9-9160-f4c7be3b0e73: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T13:18:02.845328000 3993.580707s notice: Removing file /Users/digitalimm0rtal/Documents/devtree/week8/3wed/hollywood-app/hollywood-api/rethinkdb_data/7ddca58a-e075-44e9-9160-f4c7be3b0e73
+2017-11-01T13:18:02.845338000 3993.580716s info: Table 7ddca58a-e075-44e9-9160-f4c7be3b0e73: Deleted the table.
+2017-11-01T13:18:02.870795000 3993.606174s notice: Removing file /Users/digitalimm0rtal/Documents/devtree/week8/3wed/hollywood-app/hollywood-api/rethinkdb_data/b0aad396-0d6b-4fb0-81d7-602050b6c8ba
+2017-11-01T13:18:02.870807000 3993.606185s info: Table b0aad396-0d6b-4fb0-81d7-602050b6c8ba: Deleted the table.
+2017-11-01T13:18:02.893218000 3993.628596s notice: Removing file /Users/digitalimm0rtal/Documents/devtree/week8/3wed/hollywood-app/hollywood-api/rethinkdb_data/b17df055-10b5-402c-802d-fdfd75bd9290
+2017-11-01T13:18:02.893229000 3993.628607s info: Table b17df055-10b5-402c-802d-fdfd75bd9290: Deleted the table.
+2017-11-01T13:18:02.915279000 3993.650658s notice: Removing file /Users/digitalimm0rtal/Documents/devtree/week8/3wed/hollywood-app/hollywood-api/rethinkdb_data/b9a416a2-7991-4e89-ba5e-a9788d6cbff7
+2017-11-01T13:18:02.915290000 3993.650668s info: Table b9a416a2-7991-4e89-ba5e-a9788d6cbff7: Deleted the table.
+2017-11-01T13:18:59.058839000 4049.795674s info: Table 8f8285b0-155b-46dc-bab0-e621aff0ec10: Starting a new Raft election for term 1.
+2017-11-01T13:18:59.059255000 4049.796090s info: Table 8f8285b0-155b-46dc-bab0-e621aff0ec10: Added replica on this server.
+2017-11-01T13:18:59.112830000 4049.849665s info: Table 2a8e418b-09e0-458b-893c-e6ac4e7c413f: Starting a new Raft election for term 1.
+2017-11-01T13:18:59.113149000 4049.849984s info: Table 2a8e418b-09e0-458b-893c-e6ac4e7c413f: Added replica on this server.
+2017-11-01T13:18:59.118305000 4049.855141s info: Table 308d3b32-9612-4aa1-9d31-840c40882b4b: Starting a new Raft election for term 1.
+2017-11-01T13:18:59.118522000 4049.855357s info: Table 308d3b32-9612-4aa1-9d31-840c40882b4b: Added replica on this server.
+2017-11-01T13:18:59.141653000 4049.878488s info: Table 8f8285b0-155b-46dc-bab0-e621aff0ec10: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T13:18:59.157470000 4049.894305s info: Table 2a8e418b-09e0-458b-893c-e6ac4e7c413f: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T13:18:59.157553000 4049.894388s info: Table 308d3b32-9612-4aa1-9d31-840c40882b4b: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T13:18:59.648422000 4050.385299s info: Table 2a8e418b-09e0-458b-893c-e6ac4e7c413f: Configuration is changing.
+2017-11-01T13:18:59.648818000 4050.385695s info: Table 2a8e418b-09e0-458b-893c-e6ac4e7c413f: Configuration is changing.
